@@ -3,7 +3,12 @@
 *A touchless musical interface driven by body movement and real-time computation.*
  一个由身体动作与实时计算驱动的非接触式乐器界面。
 
-![0629 - frame at 0m16s](D:\Max\0629 - frame at 0m16s.jpg)
+## 🎬 演示视频 | Demo Video
+
+点击下方图片观看完整演示（Bilibili）  
+Click the image below to watch the full demo on Bilibili:
+
+[![点击观看视频 | Watch Video](images/Cover.png)](https://www.bilibili.com/video/BV1MigozHEjt)
 
 ------
 
