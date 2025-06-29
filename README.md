@@ -8,7 +8,7 @@
 点击下方图片观看完整演示（Bilibili）  
 Click the image below to watch the full demo on Bilibili:
 
-[![点击观看视频 | Watch Video](images/Cover.png)](https://www.bilibili.com/video/BV1MigozHEjt)
+[![点击观看视频 | Watch Video](images/Cover.jpg)](https://www.bilibili.com/video/BV1MigozHEjt)
 
 ------
 
